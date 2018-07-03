@@ -1,0 +1,23 @@
+{
+    "website": "http://dechain.io",
+    "published_on": "2018-06-28",
+    "links": {
+        "telegram": "https://t.me/decToken",
+        "forum": "http://bbs.decchain.io",
+        "twitter": "https://twitter.com/DEChain4",
+        "reddit": "https://www.reddit.com/user/DEChainOfficial",
+        "facebook": "https://www.facebook.com/dec.chain.5"
+    },
+    "overview": {
+        "en": "Decentralized Ecosystem Token.",
+        "zh": "DET 是去中心化任务协作平台内部流通通证，可以在各个Dapp间通用。"
+    },
+    "symbol": "DET",
+    "initial_price": {
+        "ETH": "0.00003 ETH",
+        "USD": "0.02 USD"
+    },
+    "address": "0xF72DA6E99b864e26e3a386F2Cc6022882eCB1125",
+    "whitepaper": "http://www.dechain.io/DEC-whitepaper.pdf",
+    "email": "dec@dechain.io"
+}
